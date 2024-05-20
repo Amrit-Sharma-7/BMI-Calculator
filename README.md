@@ -16,7 +16,9 @@ A simple web application to calculate Body Mass Index (BMI). This project is bui
 
 ## Demo
 
-![BMI Calculator Screenshot](screenshot.png)
+Check out the live demo [here](https://amrit-sharma-7.github.io/BMI-Calculator/).
+
+![BMI Calculator Screenshot](BMI-Demo.gif)
 
 ## Project Structure
 
